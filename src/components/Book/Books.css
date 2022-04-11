@@ -1,0 +1,8 @@
+.book_first_div {
+    text-align: center;
+}
+
+.main_div {
+    display: grid;
+    grid-template-columns: 30% 30% 30%;
+}
